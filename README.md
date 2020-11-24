@@ -1,3 +1,3 @@
-# SMS-API
+# SMS-API_NEXMO & TWILIO
 
-Using Nexmo_node.js and Twilio_php API to send sms messages
+Using API's from Nexmo_node.js and Twilio_php, to send sms messages to selected recipients.
